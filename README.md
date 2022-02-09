@@ -1,4 +1,5 @@
-👋 Hi, I’m Felix<br>
+[![Banner](banner.png)](https://github.com/felixoswald)
+
 🎓 I'm currently studying at the University of Applied Sciences Dresden 
 
 ### Skills & Tools
