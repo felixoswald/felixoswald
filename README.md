@@ -22,6 +22,9 @@
 ![Ansible](https://img.shields.io/badge/ansible-%231A1918.svg?style=for-the-badge&logo=ansible&logoColor=white)
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)
 
-### Stats for public activity
+<!--
+### Public stats
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api?username=felixoswald&theme=vue-dark&show_icons=true&border_color=34495e&hide=stars&include_all_commits=true" /></a>
+
 <a href="#"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=felixoswald&theme=vue-dark&layout=compact&border_color=34495e" /></a>
+-->
